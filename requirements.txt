@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+requests>=2.31
+numpy>=1.26
+opencv-python-headless>=4.9
+fonttools>=4.50
+yt-dlp[default]>=2025.11.12
+deno>=2.5
+faster-whisper>=1.1
+truststore>=0.9
+onnxruntime>=1.17

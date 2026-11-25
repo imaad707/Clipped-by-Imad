@@ -1,0 +1,4 @@
+Some ideas and code in live clipping, chat filtering, loudness and
+caption masking were adapted from gtavi-claudecode by Bodila51 (MIT license), and those portions remain under
+the MIT license. bundled tools (python packages, ffmpeg, yt-dlp, fonts) are under their own licenses.
+External libraries, fonts and models retain their respective licenses.
